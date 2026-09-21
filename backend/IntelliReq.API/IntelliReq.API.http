@@ -1,0 +1,6 @@
+@IntelliReq.API_HostAddress = http://localhost:5169
+
+GET {{IntelliReq.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

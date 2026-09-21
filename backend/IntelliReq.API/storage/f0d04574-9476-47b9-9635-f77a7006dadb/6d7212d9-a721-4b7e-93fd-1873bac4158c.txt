@@ -1,0 +1,19 @@
+Software Requirements Specification
+
+Online Banking Management System
+
+Functional Requirements
+
+FR-001: The customer shall register using an email address.
+
+FR-002: The customer shall login using email and password.
+
+FR-003: The customer shall transfer money to another account.
+
+FR-004: The customer shall view transaction history.
+
+Non-Functional Requirements
+
+NFR-001: The system shall respond to user requests within 2 seconds.
+
+NFR-002: The system shall encrypt customer passwords.
