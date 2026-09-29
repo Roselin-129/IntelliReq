@@ -45,3 +45,7 @@ Thumbs.db
 # Test / coverage
 coverage/
 TestResults/
+
+# Uploaded documents - keep local, do not commit
+backend/IntelliReq.API/storage/*
+!backend/IntelliReq.API/storage/.gitkeep
